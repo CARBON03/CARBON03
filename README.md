@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at --  [MAIL](mohnishsinghin@gmail.com)
 
-- 📄 Know about my experiences -- [RESUME](https://carbon03.github.io/PortfolioWebsite/)
+- 📄 Know about my experiences -- [RESUME]([https://carbon03.github.io/PortfolioWebsite/](https://github.com/CARBON03/CARBON03/blob/main/My%20Resume.pdf))
 
 - ⚡ Fun fact **The more I learn, the more I realize how much I don't know.**
 
