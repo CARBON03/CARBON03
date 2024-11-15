@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer And Problem Solver From India.</h3>
 <br>
 
-- 🔭 I’m currently working on a FullStack Blog Page.
+- 🔭 I’m currently working on SkySync - Whether App
 
 - 🌱 I’m currently learning **Backend Web Devlopment.**
 
