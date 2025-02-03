@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohnish Singh</h1>
+<h1 align="center">Hi 👋, I'm krishnanu Singh</h1>
 <h3 align="center">A Passionate Developer And Problem Solver From India.</h3>
 <br>
 
