@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm krishnanu Singh</h1>
+<h1 align="center">Hi 👋, I'm Mohnish Singh</h1>
 <h3 align="center">A Passionate Developer And Problem Solver From India.</h3>
 <br>
 
-- 🔭 I’m currently working on SkySync - Whether App
+- 🔭 I’m currently working on Leveling up my skills
 
-- 🌱 I’m currently learning **Backend Web Devlopment.**
+- 🌱 I’m currently learning **Backend Web Devlopment. and Machine Learning**
 
 - 👨‍💻 All of my projects are available at --  [GITHUB](https://github.com/CARBON03)
 
